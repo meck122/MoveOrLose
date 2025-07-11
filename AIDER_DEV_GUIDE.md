@@ -1,3 +1,5 @@
+I should almost certainly split this into different .md files only add the relevant stuff to my context.
+
 # Dance Party Game - Local MVP Development Guide
 
 ## 1. Project Overview
